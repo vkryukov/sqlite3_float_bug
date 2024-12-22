@@ -21,3 +21,4 @@ sqlite_float_bug-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+db.sqlite3*
